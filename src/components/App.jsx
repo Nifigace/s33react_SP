@@ -1,7 +1,7 @@
 import React from "react";
 import Head from "./Head.jsx";
 import List from "./List.jsx";
-import * as Calculator from "./Calculator.js";
+import * as Calculator from "./Calculator.jsx";
 
 function App() {
   return (
